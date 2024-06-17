@@ -2,7 +2,7 @@
 
 Welcome to the [Web Awesome](https://webawesome.com/) alpha release for early backers.
 
-First off, THANK YOU for supporting Web Awesome!
+First off, THANK YOU for supporting Web Awesome! 🎉
 
 This repo serves as a place to collect bug reports and questions.
 
