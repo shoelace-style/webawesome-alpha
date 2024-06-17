@@ -16,4 +16,4 @@ Please create an issue to submit a bug report. If the bug isn't obvious, please 
 
 A great place to get help or ask a question is on the early alpha discussion board. Before asking a question, please take a moment to make sure it hasn't been answered already. The Web Awesome team will be notified about each discussion, so no need to ping us separately unless it's urgent!
 
-[Ask a question](https://github.com/shoelace-style/webawesome-alpha/discussions)
+[Ask a question](https://github.com/shoelace-style/webawesome-alpha/discussions/new/choose)
